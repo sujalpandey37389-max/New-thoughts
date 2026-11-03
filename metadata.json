@@ -1,0 +1,8 @@
+{
+  "name": "New thoughts web",
+  "description": "An editorial publication exploring ideas across technology, lifestyle, and personal development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
